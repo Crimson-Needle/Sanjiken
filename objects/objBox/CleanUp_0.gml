@@ -1,0 +1,4 @@
+{
+	//Parent
+	event_inherited();
+}
